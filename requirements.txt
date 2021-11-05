@@ -1,0 +1,6 @@
+python-dateutil
+psycopg2
+flask-moment
+flask-wtf
+flask-sqlalchemy
+flask-migrate
